@@ -1,6 +1,6 @@
 import requests
 #URL used in the first instance
-url="http://fasttrack.herokuapp.com"
+url=""
 #ensuring that data return type is json
 headers = {
     "Content-Type": "application/json",
